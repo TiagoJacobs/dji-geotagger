@@ -1,0 +1,7 @@
+node_modules/
+data/
+tmp/
+*.bin
+*.csv
+*.MP4
+*.mp4
